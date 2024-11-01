@@ -83,7 +83,7 @@ body {
 
 footer {
         background-color: black;
-        color: rgb(173, 173, 173);
+        color: rgb(255, 238, 238);
         bottom:0;
         position:fixed;
         width:100%;
@@ -99,7 +99,7 @@ footer p{
 @media (max-width: 560px) {
          
         body{
-                background: url( ´img/bd-mobile.webp`);
+                background: url( "img/bd-mobile.webp");
         }
 
         .cartao{
